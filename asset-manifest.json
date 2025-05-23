@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hs_trivia-quiz/static/css/main.81edddf5.css",
+    "main.js": "/hs_trivia-quiz/static/js/main.793915da.js",
+    "static/js/453.7fdd9ff2.chunk.js": "/hs_trivia-quiz/static/js/453.7fdd9ff2.chunk.js",
+    "index.html": "/hs_trivia-quiz/index.html",
+    "main.81edddf5.css.map": "/hs_trivia-quiz/static/css/main.81edddf5.css.map",
+    "main.793915da.js.map": "/hs_trivia-quiz/static/js/main.793915da.js.map",
+    "453.7fdd9ff2.chunk.js.map": "/hs_trivia-quiz/static/js/453.7fdd9ff2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81edddf5.css",
+    "static/js/main.793915da.js"
+  ]
+}
