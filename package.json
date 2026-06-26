@@ -1,6 +1,6 @@
 {
   "name": "hs_trivia-quiz",
-  "homepage": "https://henr1quesantos.github.io/hs_trivia-quiz",
+  "homepage": "https://triviaquiz.henriquesantos.dev",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
